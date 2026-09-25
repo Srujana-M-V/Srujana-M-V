@@ -1,51 +1,115 @@
-# 💫 About Me:
+# Hi, I'm Srujana M V 👋
 
-🚀 **Currently working on**  
-Python Full Stack projects and AI-integrated web applications
+### Aspiring Software Engineer | Python Full Stack Developer | AI & Web Development Enthusiast
 
-🤝 **Looking to collaborate on**  
-Python, Web Development and AI projects
+I'm an Electronics & Communication Engineering student passionate about building software solutions, full-stack web applications, and AI-integrated systems.
 
-💡 **Looking for help with**  
-Backend development and building real-world applications
-
-🌱 **Currently learning**  
-Python, Django, DSA, SQL and AI integration
-
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/srujanamv)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srujanamv123@gmail.com)
-
-# 💻 Tech Stack:
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api?username=Srujana-M-V&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Srujana-M-V&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Srujana-M-V&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Srujana-M-V&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+- 💻 Currently strengthening Python, Django, C++, DSA and SQL
+- 🚀 Building Python Full Stack and AI-integrated web applications
+- 🤖 Interested in AI, Backend Development and Software Engineering
+- 🌱 Continuously learning and building real-world projects
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=Srujana-M-V&icon=0&color=6)](https://visitcount.itsvg.in)
+## 🛠️ Tech Stack
+
+### Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript" />
+</p>
+
+### Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react" />
+</p>
+
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma" />
+</p>
+
+### Embedded & Hardware
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 💳 PayFlow AI — Intelligent Payment Reconciliation & Orchestration Platform
+
+AI-integrated full-stack platform designed to automate payment reconciliation, detect transaction inconsistencies, and assist in resolving payment and settlement issues.
+
+**Tech:** Python • Django • React • PostgreSQL • Redis • AI Integration
+
+🔗 [View Project](https://github.com/Srujana-M-V)
+
+---
+
+### 🤖 AI-Integrated Adaptive Cache Memory Controller
+
+AI-based cache management system designed to analyze workload patterns and dynamically select suitable cache replacement policies.
+
+**Tech:** Python • Machine Learning • Scikit-learn • External SRAM • ESP32 • Raspberry Pi • UART • I2C • SPI
+
+🔗 [View Project](https://github.com/Srujana-M-V)
+
+---
+
+### ⚡ Arduino-Based Storm Safety Switch Box
+
+Embedded safety system designed to protect household appliances by automatically disconnecting power during potentially unsafe storm conditions.
+
+**Tech:** Arduino • Embedded Systems • Sensors • Relay
+
+🔗 [View Project](https://github.com/Srujana-M-V)
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Srujana-M-V&theme=dark&hide_border=false" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Srujana-M-V&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Srujana-M-V&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/srujanamv">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Srujana-M-V">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:srujanamv123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🌱 Building. Learning. Improving. 🚀
+
+[![](https://komarev.com/ghpvc/?username=Srujana-M-V&icon=0&color=blue)](https://visitcount.itsvg.in)
