@@ -2,7 +2,7 @@
 
 ### Aspiring Software Engineer | Python Developer | Full-Stack & AI Enthusiast
 
-I'm an Electronics & Communication Engineering student with a strong interest in software development. I enjoy turning ideas into practical applications and exploring how Python, web technologies, and AI can be combined to build useful solutions.
+I'm an Electronics & Communication Engineering student passionate about building software solutions, solving real-world problems, and exploring AI-driven applications.
 
 - 💻 Strengthening my skills in **Python, C++, JavaScript, DSA and SQL**
 - 🌐 Developing applications using **Django, Flask, HTML, CSS and JavaScript**
