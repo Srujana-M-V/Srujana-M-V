@@ -66,6 +66,8 @@ An embedded safety system designed to protect household appliances during potent
 
 ---
 
+---
+
 ## 🤝 Let's Connect
 
 <p>
