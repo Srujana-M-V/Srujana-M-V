@@ -1,13 +1,14 @@
 # Hi, I'm Srujana M V 👋
 
-### Aspiring Software Engineer | Python Full Stack Developer | AI & Web Development Enthusiast
+### Aspiring Software Engineer | Python Developer | Full-Stack & AI Enthusiast
 
-I'm an Electronics & Communication Engineering student interested in software development, full-stack web applications, and AI-integrated systems.
+I'm an Electronics & Communication Engineering student with a strong interest in software development. I enjoy turning ideas into practical applications and exploring how Python, web technologies, and AI can be combined to build useful solutions.
 
-- 💻 Building projects with Python, C++ and web technologies
-- 🚀 Exploring Python Full Stack development and AI integration
-- 🤖 Interested in AI, backend development and problem solving
-- 🌱 Continuously learning, building and improving my skills
+- 💻 Strengthening my skills in **Python, C++, JavaScript, DSA and SQL**
+- 🌐 Developing applications using **Django, Flask, HTML, CSS and JavaScript**
+- 🤖 Exploring **AI integration and Machine Learning applications**
+- 🚀 Building projects that combine **software development with real-world problem solving**
+- 📈 Continuously improving my programming, problem-solving and development skills
 
 ---
 
@@ -15,17 +16,17 @@ I'm an Electronics & Communication Engineering student interested in software de
 
 ### Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js" />
 </p>
 
-### Backend
+### Backend & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=django,flask" />
 </p>
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### Database & Tools
@@ -39,9 +40,9 @@ I'm an Electronics & Communication Engineering student interested in software de
 
 ### 🤖 ML-Driven Adaptive Cache Optimization Engine
 
-An adaptive cache optimization project that explores dynamic cache replacement policy selection based on workload and memory access patterns.
+A machine learning-based cache optimization system designed to analyze workload characteristics and dynamically select suitable cache replacement policies to improve cache performance.
 
-**Tech:** Python • Machine Learning • LRU • LFU • FIFO • Performance Analysis
+**Tech:** Python • Machine Learning • Scikit-learn • Pandas • Matplotlib
 
 🔗 [View Project](https://github.com/Srujana-M-V/ML-Driven-Adaptive-Cache-Optimization-Engine-with-Dynamic-Policy-Selection-and-Performance-Analysis)
 
@@ -49,9 +50,9 @@ An adaptive cache optimization project that explores dynamic cache replacement p
 
 ### ⚡ Arduino-Based Storm Safety Switch Box
 
-An Arduino-based safety system designed to protect household appliances from voltage fluctuations by automatically triggering a power cutoff mechanism.
+An embedded safety system designed to protect household appliances during potentially unsafe storm conditions by automatically detecting conditions and triggering a protective cutoff mechanism.
 
-**Tech:** Arduino • Embedded Systems • Sensors • Microcontroller
+**Tech:** Arduino • Embedded Systems • Sensors • Relay
 
 🔗 [View Project](https://github.com/Srujana-M-V/Storm-Safety-Switch-Box)
 
@@ -60,16 +61,7 @@ An Arduino-based safety system designed to protect household appliances from vol
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Srujana-M-V&theme=dark&hide_border=false" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Srujana-M-V&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Srujana-M-V&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srujana-M-V&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
@@ -78,18 +70,20 @@ An Arduino-based safety system designed to protect household appliances from vol
 
 <p>
   <a href="https://www.linkedin.com/in/srujanamv">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/Srujana-M-V">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:srujanamv123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
-### 🌱 Building. Learning. Improving. 🚀
+### 🌱 Code. Create. Learn. Grow. 🚀
 
-[![](https://komarev.com/ghpvc/?username=Srujana-M-V&icon=0&color=blue)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Srujana-M-V&label=Profile%20Views&color=blue&style=flat" />
+</p>
