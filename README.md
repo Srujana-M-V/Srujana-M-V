@@ -2,12 +2,12 @@
 
 ### Aspiring Software Engineer | Python Full Stack Developer | AI & Web Development Enthusiast
 
-I'm an Electronics & Communication Engineering student passionate about building software solutions, full-stack web applications, and AI-integrated systems.
+I'm an Electronics & Communication Engineering student interested in software development, full-stack web applications, and AI-integrated systems.
 
-- 💻 Currently strengthening Python, Django, C++, DSA and SQL
-- 🚀 Building Python Full Stack and AI-integrated web applications
-- 🤖 Interested in AI, Backend Development and Software Engineering
-- 🌱 Continuously learning and building real-world projects
+- 💻 Building projects with Python, C++ and web technologies
+- 🚀 Exploring Python Full Stack development and AI integration
+- 🤖 Interested in AI, backend development and problem solving
+- 🌱 Continuously learning, building and improving my skills
 
 ---
 
@@ -18,62 +18,42 @@ I'm an Electronics & Communication Engineering student passionate about building
   <img src="https://skillicons.dev/icons?i=python,cpp,javascript" />
 </p>
 
-### Backend & Frameworks
+### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=django,flask,fastapi" />
+  <img src="https://skillicons.dev/icons?i=django,flask" />
 </p>
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
 </p>
 
-### Database
+### Database & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql" />
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma" />
-</p>
-
-### Embedded & Hardware
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💳 PayFlow AI — Intelligent Payment Reconciliation & Orchestration Platform
+### 🤖 ML-Driven Adaptive Cache Optimization Engine
 
-AI-integrated full-stack platform designed to automate payment reconciliation, detect transaction inconsistencies, and assist in resolving payment and settlement issues.
+An adaptive cache optimization project that explores dynamic cache replacement policy selection based on workload and memory access patterns.
 
-**Tech:** Python • Django • React • PostgreSQL • Redis • AI Integration
+**Tech:** Python • Machine Learning • LRU • LFU • FIFO • Performance Analysis
 
-🔗 [View Project](https://github.com/Srujana-M-V)
-
----
-
-### 🤖 AI-Integrated Adaptive Cache Memory Controller
-
-AI-based cache management system designed to analyze workload patterns and dynamically select suitable cache replacement policies.
-
-**Tech:** Python • Machine Learning • Scikit-learn • External SRAM • ESP32 • Raspberry Pi • UART • I2C • SPI
-
-🔗 [View Project](https://github.com/Srujana-M-V)
+🔗 [View Project](https://github.com/Srujana-M-V/ML-Driven-Adaptive-Cache-Optimization-Engine-with-Dynamic-Policy-Selection-and-Performance-Analysis)
 
 ---
 
 ### ⚡ Arduino-Based Storm Safety Switch Box
 
-Embedded safety system designed to protect household appliances by automatically disconnecting power during potentially unsafe storm conditions.
+An Arduino-based safety system designed to protect household appliances from voltage fluctuations by automatically triggering a power cutoff mechanism.
 
-**Tech:** Arduino • Embedded Systems • Sensors • Relay
+**Tech:** Arduino • Embedded Systems • Sensors • Microcontroller
 
-🔗 [View Project](https://github.com/Srujana-M-V)
+🔗 [View Project](https://github.com/Srujana-M-V/Storm-Safety-Switch-Box)
 
 ---
 
