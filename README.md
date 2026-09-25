@@ -70,15 +70,12 @@ An embedded safety system designed to protect household appliances during potent
 
 ## 🤝 Let's Connect
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/srujanamv">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/Srujana-M-V">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:srujanamv123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
