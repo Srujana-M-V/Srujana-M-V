@@ -47,7 +47,12 @@ A machine learning-based cache optimization system designed to analyze workload 
 🔗 [View Project](https://github.com/Srujana-M-V/ML-Driven-Adaptive-Cache-Optimization-Engine-with-Dynamic-Policy-Selection-and-Performance-Analysis)
 
 ---
+### 📚 Library Management System
+A software application for managing books, users, and library operations.
 
+🔗 [View Project](https://github.com/Srujana-M-V/Library-Management-System)
+
+---
 ### ⚡ Arduino-Based Storm Safety Switch Box
 
 An embedded safety system designed to protect household appliances during potentially unsafe storm conditions by automatically detecting conditions and triggering a protective cutoff mechanism.
