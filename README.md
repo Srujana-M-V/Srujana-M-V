@@ -81,7 +81,7 @@ An embedded safety system designed to protect household appliances during potent
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
----
+
 
 ### 🌱 Code. Create. Learn. Grow. 🚀
 
