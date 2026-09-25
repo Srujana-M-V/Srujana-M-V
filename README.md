@@ -54,6 +54,7 @@ A software application designed to manage books, users, and library operations e
 **Tech:** Python • Django • HTML • CSS • SQL
 
 🔗 [View Project](https://github.com/Srujana-M-V/Library-Management-System)
+
 ---
 ### ⚡ Arduino-Based Storm Safety Switch Box
 
