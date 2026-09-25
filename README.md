@@ -48,10 +48,12 @@ A machine learning-based cache optimization system designed to analyze workload 
 
 ---
 ### 📚 Library Management System
-A software application for managing books, users, and library operations.
+
+A software application designed to manage books, users, and library operations efficiently.
+
+**Tech:** Python • Django • HTML • CSS • SQL
 
 🔗 [View Project](https://github.com/Srujana-M-V/Library-Management-System)
-
 ---
 ### ⚡ Arduino-Based Storm Safety Switch Box
 
